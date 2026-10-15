@@ -10,9 +10,8 @@
         android:id="@+id/btn1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="green button"
-        android:backgroundTint="#4CAF50" />
-
+        android:text="red button"
+        android:backgroundTint="#F44336" />
 
     <Button
         android:id="@+id/btn2"
@@ -20,5 +19,11 @@
         android:layout_height="wrap_content"
         android:text="button 2"
         android:backgroundTint="#CCCCCC" />
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="bule buttton"
+        android:backgroundTint="#2196F3" />
 
 </LinearLayout>
